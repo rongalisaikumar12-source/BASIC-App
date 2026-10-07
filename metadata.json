@@ -1,0 +1,6 @@
+{
+  "name": "Basics",
+  "description": "A fast, clean daily essentials toolkit featuring quick notes, task checklists, habit tracker, tap counter, and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
